@@ -1,0 +1,123 @@
+@media (min-width: 1400px) {
+  .nav {
+    margin: 2.7rem 6rem 0 0;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  .nav ul {
+    list-style-type: none;
+
+    display: flex;
+    justify-content: flex-end;
+    gap: 3.3rem;
+  }
+
+  .headerIcon {
+    display: none;
+  }
+
+  /* group1 start */
+
+  .mainContainer {
+    position: relative;
+  }
+  .group1 img {
+    width: 24.3rem;
+    height: 24.3rem;
+    position: absolute;
+    margin: 10rem 0 0 100.56rem;
+  }
+
+  .mainHeader h1 {
+    width: 44rem;
+    font-size: 4.4rem;
+    line-height: 6rem;
+    position: absolute;
+    margin: 10rem 0 2.1rem 14.08rem;
+  }
+  .mainText p {
+    width: 49.7rem;
+    font-size: 1.6rem;
+    font-weight: 400;
+    position: absolute;
+    margin: 24rem 0 2.6rem 14.06rem;
+  }
+  .downloadd {
+    width: 20.08rem;
+    height: 4.2rem;
+    background-color: var(--red);
+    border: solid var(--red);
+    border-radius: 0.2rem;
+    margin: 35rem 0 4.9rem 14.06rem;
+  }
+  .downloadd p {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+  }
+  /* group1 end */
+
+  /* mainContainer2 start */
+  .mainContainer2 {
+    background-color: var(--lighblue);
+    width: 100%;
+    height: 42rem;
+  }
+  .main2Header {
+    display: flex;
+  }
+  .recent {
+    margin-left: 14.06rem;
+    font-size: 1.8rem;
+    line-height: 6rem;
+  }
+  .view {
+    display: block;
+   
+    font-size: 1.06;
+    color: #00A8CC;
+   margin-left: 96.50rem;
+   margin-top: 2rem;
+  }
+
+ 
+
+  /* mainContainer2 end */
+
+  /* text1 start */
+.text1 {
+    background-color: #fff;
+    width: 41.8rem;
+    height: 27.5rem;
+    box-shadow: 0px 4px 10px 0px rgba(187, 225, 250, 0.25);
+    margin: 6rem -11rem -4.5rem 13rem;
+
+}
+  .text1 h1{
+      font-size: 2.6rem;
+      
+      margin: 1.02rem 0 0 1.9rem;
+  }
+  .text1 p{
+      font-size: 1.6rem;
+      margin: 3rem 0 0 1.9rem;
+  }
+  .vector{
+      margin:3.2rem 1.2rem 0 2.4rem ;
+  }
+  .text1p1-Vector-p2{
+      display: flex;
+     
+  }
+  .text{
+      width: 36.8rem;
+  }
+  .text1-text2{
+    display: flex;
+    margin:-6rem 0 0 1.2rem;
+
+  
+    
+  }
+  /* text1 end */
+}
