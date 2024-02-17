@@ -66,13 +66,13 @@ html {
 .mainContainer2 {
   background-color: var(--lighblue);
   width: 100%;
-  height: 68rem;
+  height: 62rem;
 }
 .main2Header {
   display: flex;
 }
 .recent {
-  margin-left: 24.1rem;
+  margin-left: 24.1rem ;
   font-size: 1.8rem;
   line-height: 6rem;
 }
@@ -80,6 +80,11 @@ html {
   display: none;
 }
 /* text1 start */
+.text1-text2{
+  margin-top: -5.5rem;
+
+
+}
 .text1 {
   background-color: #fff;
   width: 34.4rem;
@@ -109,3 +114,41 @@ html {
 /* text1 end */
 
 /* mainContainer2 end */
+
+
+
+/* maincontainer3 start */
+.featured p{
+  font-size: 1.8rem;
+  margin: 1.5rem 0 1.5rem 24.1rem ;
+}
+.work-list-mobile {
+  margin-left: 13.5rem;
+}
+.mainContainer3{
+  display: none;
+}
+.vector8png{
+  display: none;
+}
+/* maincontainer3 end */
+
+/* footer start */
+.icons-end{
+  width: 45.5rem;
+  height: 18.2rem;
+  margin-top: 15rem;
+
+}
+.icons{
+  margin-left: 14.4rem;
+  
+}
+.icons img{
+  margin-left: 3.5rem;
+}
+.end p{
+  font-size: 1.4rem;
+  margin: 2.6rem  0 0 19rem;
+}
+/* footer end */
